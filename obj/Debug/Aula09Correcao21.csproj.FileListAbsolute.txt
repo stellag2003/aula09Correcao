@@ -1,0 +1,7 @@
+C:\Users\stella.gmendonca\source\repos\Aula09Correcao21\Aula09Correcao21\bin\Debug\Aula09Correcao21.exe.config
+C:\Users\stella.gmendonca\source\repos\Aula09Correcao21\Aula09Correcao21\bin\Debug\Aula09Correcao21.exe
+C:\Users\stella.gmendonca\source\repos\Aula09Correcao21\Aula09Correcao21\bin\Debug\Aula09Correcao21.pdb
+C:\Users\stella.gmendonca\source\repos\Aula09Correcao21\Aula09Correcao21\obj\Debug\Aula09Correcao21.csproj.AssemblyReference.cache
+C:\Users\stella.gmendonca\source\repos\Aula09Correcao21\Aula09Correcao21\obj\Debug\Aula09Correcao21.csproj.CoreCompileInputs.cache
+C:\Users\stella.gmendonca\source\repos\Aula09Correcao21\Aula09Correcao21\obj\Debug\Aula09Correcao21.exe
+C:\Users\stella.gmendonca\source\repos\Aula09Correcao21\Aula09Correcao21\obj\Debug\Aula09Correcao21.pdb
